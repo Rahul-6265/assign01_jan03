@@ -1,0 +1,42 @@
+
+body{
+    text-align: center;
+    background-color: whitesmoke;
+}
+
+input{
+    
+}
+
+.blue-text{
+    color: rgba(26, 26, 158, 0.918);
+    font-size: 50px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    
+}
+
+.background{
+    background-color: white;
+    height: 330px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 600px;
+    margin-right: 600px;
+    
+}
+
+.blue-background{
+    background-color:  rgb(109, 109, 235);
+    color: white;
+
+}
+
+.green-background{
+    background-color: rgb(106, 172, 9);
+    color: white;
+}
+
+.blue-color{
+    color: rgb(109, 109, 235) ;
+}
